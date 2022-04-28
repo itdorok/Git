@@ -1,3 +1,3 @@
-# git-for-everyone
+# Learn Basics of git and github
 
-nice to meet you
+### difference between git and github

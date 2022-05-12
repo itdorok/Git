@@ -1,6 +1,6 @@
-# **_Basic Git concepts_**
+# **_💡 Basic Git concepts_**
 
-## 💡 what is Git and GitHub?
+## what is Git and GitHub?
 
 ```
 Git: 버전 관리 시스템 (Version Control System)
@@ -10,7 +10,7 @@ GitHub: 깃 레포지토리 저장소 (cloud-based hosting service)
 
 <br>
 
-## 💡 repository
+## repository
 
 ```
 .git folder inside a project
@@ -22,7 +22,7 @@ if delete .git folder, you delete your project’s history.
 
 <br>
 
-## 💡 Commit
+## Commit
 
 ```
 capturing a snapshot of the project's currently staged changes
@@ -30,7 +30,7 @@ capturing a snapshot of the project's currently staged changes
 
 <br>
 
-## 💡 Areas
+## Areas
 
 **_Working Area (untracked files)_**
 
@@ -99,7 +99,7 @@ you can’t continue merge unless solve the conflict
 
 <br>
 
-# **_Github_**
+# **_💡 Github_**
 
 ```
 1. fork
@@ -158,7 +158,7 @@ base repository의 최신 수정 사항을 origin branch로 fetch 할 수 있다
 
 ---
 
-## 💡 **_CLI_**
+## **_CLI_**
 
 ```
 Command Line Interface
